@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mert Gul
 ================================================================================================================================
 
-Game Developer
+Computer Engineer
 --------------------
 
-I am a Game Developer who loves games and plan to create some cool games. Also I like design and I create 3d models as a hobby. Currently learning unity.
+I am a Computer Engineer who loves games and has experience in web development using react and nodejs. Also I like design and I create 3d models as a hobby. Currently learning unity.
 
 * 🌍  I'm based in Karabuk / Turkey
 * ✉️  You can contact me at [mertgul1878@gmail.com](mailto:mertgul1878@gmail.com)
